@@ -1,7 +1,13 @@
 import React from 'react';
+import Navbar from './Navbar'
 
 const App = () => {
-  return <h1>Bulma</h1>;
+  return (
+    <div>
+      hello Guido
+      {/* <Navbar/> */}
+    </div>
+  )
 };
 
 export default App;
