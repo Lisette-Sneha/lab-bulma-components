@@ -4,8 +4,7 @@ import Navbar from './Navbar'
 const App = () => {
   return (
     <div>
-      hello Guido
-      {/* <Navbar/> */}
+      <Navbar />
     </div>
   )
 };
